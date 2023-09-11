@@ -7,7 +7,7 @@ Run `webtoon-auto-scroller.py` locally and click on the webtoon you wish to auto
 
 ### Spiral Painter
 Creates a rectangular spiral on Paint program. Run `paint-auto.py` and quickly move to the paint screen. 
-![](/spam-bot/spiral.PNG)
+![](https://github.com/Anneysha7/spam-bot/blob/main/spiral.PNG)
 
 ### Spam-Texter
 Edit the message in `message.txt` file. Then, run `automated-script.py` in any messaging field. Wait for the menace to unfold!
